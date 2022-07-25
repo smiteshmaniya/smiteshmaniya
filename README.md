@@ -64,9 +64,9 @@
 ---
 <br />
 <p align="center">
-    <a href="https://www.linkedin.com/in/savangadhiya/" target="_blank"><img src="https://img.shields.io/badge/-Savan%20Gadhiya-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-    <a href="mailto:savangadhiya7623@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-savangadhiya7623@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-    <a href="https://www.instagram.com/savan_gadhiya_24" target="_blank"><img src="https://img.shields.io/badge/-@Savan_Gadhiya_24-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+    <a href="https://www.linkedin.com/in/smiteshmaniya/" target="_blank"><img src="https://img.shields.io/badge/-Smitesh%20Maniya-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+    <a href="mailto:maniyasmiteshm@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-maniyasmiteshm@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+    <a href="https://www.instagram.com/smiteshmaniya" target="_blank"><img src="https://img.shields.io/badge/-@smiteshmaniya-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=smiteshmaniya&label=Profile%20views&color=0e75b6&style=plastic" alt="Smitesh Maniya's profile view count" /> </p>
